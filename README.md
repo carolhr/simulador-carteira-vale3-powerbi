@@ -18,7 +18,7 @@ O projeto se destaca pelo uso de variáveis (`VAR`) e inteligência analítica d
 * **Simulador de Aportes:** Cruzamento dinâmico entre os parâmetros digitados pelo usuário (Quantidade de Ações vs Preço Médio) para retornar o *Valor Investido*, *Patrimônio Atual* e o *Lucro/Prejuízo Nominal*.
 * **Drawdown Máximo (Análise de Risco):** Fórmula matemática avançada que calcula o maior pico histórico do preço do ativo até a data corrente e o compara com o valor do dia atual, mapeando o percentual de estresse e risco de queda em um gráfico de áreas.
   
-## markdown## 🐍 Como Executar o Script Python
+## markdown 🐍 Como Executar o Script Python
 O script de extração automatizada (`extract_vale3.py`) foi desenvolvido utilizando as seguintes bibliotecas principais:
 * `yfinance` (para comunicação direta com as APIs do Yahoo Finance)
 * `pandas` (para tratamento de dados estruturados)
